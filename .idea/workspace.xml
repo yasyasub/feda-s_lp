@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8df4dca4-2419-41a4-b638-8ca0a0407f7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/author-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +52,7 @@
       <workItem from="1564656340687" duration="2576000" />
       <workItem from="1565033267408" duration="2380000" />
       <workItem from="1565036097058" duration="455000" />
-      <workItem from="1565545610785" duration="5085000" />
+      <workItem from="1565545610785" duration="6133000" />
     </task>
     <servers />
   </component>
