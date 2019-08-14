@@ -395,7 +395,7 @@ mark,
     content: "\2014 \00A0"; }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 300px;
   height: auto; }
 
 .img-thumbnail {
@@ -8211,10 +8211,10 @@ textarea.form-control {
 .author-img,
 .logo-img,
 .user-img {
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
-  background-position: center center; }
-
+  background-position: center center;
+}
 .image-popup {
   cursor: -webkit-zoom-in;
   cursor: -moz-zoom-in;

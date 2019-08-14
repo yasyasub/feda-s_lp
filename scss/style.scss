@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5,
 			left: 0;
 			bottom: 0;
 			height: 100%;
-			width: 30%;
+			width: 10	0%;
 			opacity: 0;
 			&:after{
 				position: absolute;
@@ -719,7 +719,8 @@ header{
 	.author-img{
 		@include media-breakpoint-down(sm){
 			display: block;
-			height: 300px;
+			height: 100%;
+			width: 100%	;
 		}
 	}
 }
@@ -1158,7 +1159,7 @@ textarea.form-control {
 .author-img,
 .logo-img,
 .user-img{
-	background-size: cover;
+	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center center;
 }
