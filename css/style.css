@@ -1,9 +1,4 @@
-/*!
- * Bootstrap v4.1.0 (https://getbootstrap.com/)
- * Copyright 2011-2018 The Bootstrap Authors
- * Copyright 2011-2018 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -41,6 +36,7 @@
   box-sizing: border-box; }
 
 html {
+  float: left;
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
@@ -400,6 +396,7 @@ mark,
 
 .img-fluid-1{
   display: block;
+  width: 300px;
   width: 300px;
   height: auto;
 }
