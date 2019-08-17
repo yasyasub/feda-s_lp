@@ -7912,7 +7912,8 @@ header {
         display: none; } }
 
 .profile {
-  margin-bottom: 5em; }
+  margin-bottom: 5em;
+}
   .profile p strong {
     color: #fff;
     font-weight: 400; }
