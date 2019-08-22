@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8df4dca4-2419-41a4-b638-8ca0a0407f7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BringYourBeloved.html" beforeDir="false" afterPath="$PROJECT_DIR$/BringYourBeloved.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/feda's_lp/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -56,7 +66,7 @@
       <workItem from="1565906346258" duration="7224000" />
       <workItem from="1566127828022" duration="66000" />
       <workItem from="1566127910875" duration="276000" />
-      <workItem from="1566128895995" duration="304000" />
+      <workItem from="1566128895995" duration="4233000" />
     </task>
     <servers />
   </component>
